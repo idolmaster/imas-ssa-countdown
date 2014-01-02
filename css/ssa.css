@@ -1,9 +1,14 @@
 body {
   background: url("../img/logo.png") no-repeat fixed bottom right;
   background-size: 125px 125px;
+  padding-top: 70px;
 }
 
 footer {
   text-align: center;
+}
+
+.container {
+  width: 1170px !important;
 }
 
