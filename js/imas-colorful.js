@@ -12,10 +12,10 @@ $(function() {
       $(this).addClass("ritsuko");
     } else if ($(this).text().match(/落合祐里香|長谷優里奈|浅倉杏美|萩原雪歩/g)) {
       $(this).addClass("yukiho");
-    } else if ($(this).text().match(/下田麻美|双海[亜真]美/g)) {
-      $(this).addClass("amimami");
     } else if ($(this).text().match(/平田宏美|菊地真/g)) {
       $(this).addClass("makoto");
+    } else if ($(this).text().match(/下田麻美|双海[亜真]美/g)) {
+      $(this).addClass("amimami");
     } else if ($(this).text().match(/釘宮理恵|水瀬伊織/g)) {
       $(this).addClass("iori");
     } else if ($(this).text().match(/たかはし智秋|三浦あずさ/g)) {
