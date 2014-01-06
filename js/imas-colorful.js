@@ -12,9 +12,9 @@ $(function() {
       $(this).addClass("ritsuko");
     } else if ($(this).text().match(/落合祐里香|長谷優里奈|浅倉杏美|萩原雪歩/g)) {
       $(this).addClass("yukiho");
-    } else if ($(this).text().match(/双海[亜真]美|下田麻美/g)) {
+    } else if ($(this).text().match(/下田麻美|双海[亜真]美/g)) {
       $(this).addClass("amimami");
-    } else if ($(this).text().match(/菊地真|平田宏美/g)) {
+    } else if ($(this).text().match(/平田宏美|菊地真/g)) {
       $(this).addClass("makoto");
     } else if ($(this).text().match(/釘宮理恵|水瀬伊織/g)) {
       $(this).addClass("iori");
@@ -22,7 +22,7 @@ $(function() {
       $(this).addClass("azusa");
     } else if ($(this).text().match(/原由実|四条貴音/g)) {
       $(this).addClass("takane");
-    } else if ($(this).text().match(/沼倉愛美|我那覇/g)) {
+    } else if ($(this).text().match(/沼倉愛美|我那覇響/g)) {
       $(this).addClass("hibiki");
     } else if ($(this).text().match(/滝田樹里|音無小鳥/g)) {
       $(this).addClass("kotori");
