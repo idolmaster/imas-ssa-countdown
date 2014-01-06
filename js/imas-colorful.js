@@ -8,8 +8,6 @@ $(function() {
       $(this).addClass("chihaya");
     } else if ($(this).text().match(/仁後真耶子|高槻やよい/g)) {
       $(this).addClass("yayoi");
-    } else if ($(this).text().match(/若林直美|秋月律子/g)) {
-      $(this).addClass("ritsuko");
     } else if ($(this).text().match(/落合祐里香|長谷優里奈|浅倉杏美|萩原雪歩/g)) {
       $(this).addClass("yukiho");
     } else if ($(this).text().match(/平田宏美|菊地真/g)) {
@@ -24,6 +22,8 @@ $(function() {
       $(this).addClass("takane");
     } else if ($(this).text().match(/沼倉愛美|我那覇響/g)) {
       $(this).addClass("hibiki");
+    } else if ($(this).text().match(/若林直美|秋月律子/g)) {
+      $(this).addClass("ritsuko");
     } else if ($(this).text().match(/滝田樹里|音無小鳥/g)) {
       $(this).addClass("kotori");
     } else if ($(this).text().match(/日高愛|戸松遥/g)) {
