@@ -16,7 +16,7 @@ imas-ssa-countdown
 * [アイドルマスター データベース](http://imas-db.jp/) (色など)
 
 ## 副産物
-* [js/imas-colorful.js](https://github.com/owatan/imas-ssa-countdown/blob/gh-pages/js/imas-colorful.js)
+* [js/imas-color.js](https://github.com/owatan/imas-ssa-countdown/blob/gh-pages/js/imas-color.js)
     * `span` タグで囲まれたアイマス(キャラ|声優名)に色をつけてくれるもの
 * [css/imas-color.css](https://github.com/owatan/imas-ssa-countdown/blob/gh-pages/css/imas-color.css)
     * アイマスキャラの名前の `class` をつけるとそのキャラの色の `color` 属性が付く
