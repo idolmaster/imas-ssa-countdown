@@ -1,196 +1,80 @@
 /*
- * iDOLM@STER character color code ver 1.0
+ * iDOLM@STER character color code
  * See: http://imas-db.jp/misc/color.html
  */
 
 /*
  * 765PRO ALLSTARS+
  */
-.haruka {
-  color: #e22b30;
-}
-.miki {
-  color: #b4e04b;
-}
-.chihaya {
-  color: #2743b2;
-}
-.yayoi {
-  color: #f39939;
-}
-.ritsuko {
-  color: #01a860;
-}
-.yukiho {
-  color: #d3dde9;
-}
-.ami, .mami, .amimami{
-  color: #ffe43f;
-}
-.makoto {
-  color: #515558;
-}
-.iori {
-  color: #fd99e1;
-}
-.azusa {
-  color: #9238be;
-}
-.takane {
-  color: #a6126a;
-}
-.hibiki {
-  color: #01adb9;
-}
-.kotori {
-  color: #99FF00;
-}
+.haruka               {color: #e22b30;}
+.miki                 {color: #b4e04b;}
+.chihaya              {color: #2743b2;}
+.yayoi                {color: #f39939;}
+.ritsuko              {color: #01a860;}
+.yukiho               {color: #d3dde9;}
+.ami, .mami, .amimami {color: #ffe43f;}
+.makoto               {color: #515558;}
+.iori                 {color: #fd99e1;}
+.azusa                {color: #9238be;}
+.takane               {color: #a6126a;}
+.hibiki               {color: #01adb9;}
+.kotori               {color: #99FF00;}
 
 /*
  * 876 PRO
  */
-.ai {
-  color: #e85786;
-}
-.eri {
-  color: #00adb9;
-}
-.ryo {
-  color: #b2d468;
-}
+.ai  {color: #e85786;}
+.eri {color: #00adb9;}
+.ryo {color: #b2d468;}
 
 /*
  * CINDERELLA GIRLS
  */
-.cute {
-  color: #ff83c1;
-}
-.cool {
-  color: #319bff;
-}
-.passion {
-  color: #ffd149;
-}
+.cute    {color: #ff83c1;}
+.cool    {color: #319bff;}
+.passion {color: #ffd149;}
 
 /*
  * MILLION STARS
  */
-.vocal {
-  color: #ff3273;
-}
-.dance {
-  color: #3273ff;
-}
-.visual {
-  color: #f5c800;
-}
+.vocal  {color: #ff3273;}
+.dance  {color: #3273ff;}
+.visual {color: #f5c800;}
 
-.tsubasa {
-  color: #fed552;
-}
-.emily {
-  color: #554171;
-}
-.tamaki {
-  color: #ee762e;
-}
-.mirai {
-  color: #ea5b76;
-}
-.reika {
-  color: #6bb6b0;
-}
-.shiho {
-  color: #afa690;
-}
-.hinata {
-  color: #d1342c;
-}
-.umi {
-  color:  #e9739b;
-}
-.minako {
-  color: #58a6dc;
-}
-.karen {
-  color: #b63b40;
-}
-.erena {
-  color: #9bce92;
-}
-.julia {
-  color: #d7385f;
-}
-.momoko {
-  color: #7f6575;
-}
-.kotoha {
-  color: #92cfbb;
-}
-.tomoka {
-  color: #bee3e3;
-}
-.matsuri {
-  color: #5abfb7;
-}
-.megumi {
-  color: #454341;
-}
-.fuuka {
-  color: #7278a8;
-}
-.iku {
-  color: #f7e78e;
-}
-.subaru {
-  color: #aeb49c;
-}
-.yuriko {
-  color: #c7b83c;
-}
-.chiduru {
-  color: #f19557;
-}
-.akane {
-  color: #eb613f;
-}
-.serika {
-  color: #ed90ba;
-}
-.konomi {
-  color: #f1becb;
-}
-.noriko {
-  color: #eceb70;
-}
-.ayumu {
-  color: #e25a9b;
-}
-.mizuki {
-  color: #99b7dc;
-}
-.arisa {
-  color: #b54461;
-}
-.miya {
-  color: #f19557;
-}
-.shizuka {
-  color: #6495cf;
-}
-.anna {
-  color: #7e6ca8;
-}
-.rio {
-  color: #f19591;
-}
-.kana {
-  color: #f5ad3b;
-}
-.nao {
-  color: #788bc5;
-}
-.roko {
-  color: #fff03c;
-}
+.tsubasa {color: #fed552;}
+.emily   {color: #554171;}
+.tamaki  {color: #ee762e;}
+.mirai   {color: #ea5b76;}
+.reika   {color: #6bb6b0;}
+.shiho   {color: #afa690;}
+.hinata  {color: #d1342c;}
+.umi     {color: #e9739b;}
+.minako  {color: #58a6dc;}
+.karen   {color: #b63b40;}
+.erena   {color: #9bce92;}
+.julia   {color: #d7385f;}
+.momoko  {color: #7f6575;}
+.kotoha  {color: #92cfbb;}
+.tomoka  {color: #bee3e3;}
+.matsuri {color: #5abfb7;}
+.megumi  {color: #454341;}
+.fuuka   {color: #7278a8;}
+.iku     {color: #f7e78e;}
+.subaru  {color: #aeb49c;}
+.yuriko  {color: #c7b83c;}
+.chiduru {color: #f19557;}
+.akane   {color: #eb613f;}
+.serika  {color: #ed90ba;}
+.konomi  {color: #f1becb;}
+.noriko  {color: #eceb70;}
+.ayumu   {color: #e25a9b;}
+.mizuki  {color: #99b7dc;}
+.arisa   {color: #b54461;}
+.miya    {color: #f19557;}
+.shizuka {color: #6495cf;}
+.anna    {color: #7e6ca8;}
+.rio     {color: #f19591;}
+.kana    {color: #f5ad3b;}
+.nao     {color: #788bc5;}
+.roko    {color: #fff03c;}
 
